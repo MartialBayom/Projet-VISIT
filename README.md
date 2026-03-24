@@ -80,7 +80,7 @@ cp .env.example .env
 
 ---
 
-## ▶ Lancement
+## Lancement
 
 ### Démarrer l'API (Terminal 1)
 ```bash
